@@ -22,9 +22,13 @@ System Requirements
 +------------------------+-------+-------+-------+
 | Debian Bullseye (11)   | Yes   | Yes   | No    |
 +------------------------+-------+-------+-------+
+| Debian Bookworm (12)   | Yes   | Yes   | No    |
++------------------------+-------+-------+-------+
 | Raspbian Buster (10)   | No    | Yes   | Yes   |
 +------------------------+-------+-------+-------+
 | Raspbian Bullseye (11) | No    | Yes   | Yes   |
++------------------------+-------+-------+-------+
+| Raspbian Bookworm (12) | No    | Yes   | Yes   |
 +------------------------+-------+-------+-------+
 
 * If your operating system is not listed above take a look at :ref:`this<unsupportedos>`
